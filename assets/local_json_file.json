@@ -1,0 +1,59 @@
+{
+  "items":[
+    {
+      "name": "Mango",
+      "description": "A mango is an edible stone fruit produced by the tropical tree Mangifera indica. It is believed to have originated in southern Asia, particularly in eastern India, Bangladesh, and the Andaman Islands.",
+      "price": 99.0,
+      "imageUrl": "https://www.gepaghana.org/import/wp-content/uploads/sites/2/2017/12/mango.jpg"
+    },
+
+    {
+      "name": "Orange",
+      "description": "An orange is a fruit of various citrus species in the family Rutaceae (see list of plants known as orange); it primarily refers to Citrus sinensis",
+      "price": 54.0,
+      "imageUrl": "https://www.allrecipes.com/thmb/y_uvjwXWAuD6T0RxaS19jFvZyFU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1205638014-2000-d0fbf9170f2d43eeb046f56eec65319c.jpg"
+    },
+    
+    {
+      "name": "Guava",
+      "description": "Guava is a tree that grows in Central and South America. The fruit is commonly eaten fresh or made into beverages, jams, and other foods.",
+      "price": 78.0,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0082/6150/0991/files/Whole-and-cut-pink-guava-fruits.jpg"
+    },
+
+    {
+      "name": "Watermelon",
+      "description": "Watermelon is a flowering plant species of the Cucurbitaceae family and the name of its edible fruit. A scrambling and trailing vine-like plant, it is a highly cultivated fruit worldwide, with more than 1,000 varieties..",
+      "price": 99.0,
+      "imageUrl": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcQbPzz2wLi_pF2n6HXmmpyoPdG7VwCtSY--OejTKqGtMJJVLvkM8zA_QIv3t7S2Ve6S7KVuSRNQ75HWetY"
+    },
+
+    {
+      "name": "Apple",
+      "description": "An apple is a round, edible fruit produced by an apple tree (Malus domestica). Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus.",
+      "price": 60.0,
+      "imageUrl": "https://cdn.britannica.com/22/187222-050-07B17FB6/apples-on-a-tree-branch.jpg"
+    },
+
+    {
+      "name": "Pineapple",
+      "description": "The pineapple is indigenous to South America, where it has been cultivated for many centuries. The introduction of the pineapple to Europe in the 17th century made it a significant cultural icon of luxury.",
+      "price": 55.0,
+      "imageUrl": "https://static.toiimg.com/thumb/msid-69876233,width-1280,resizemode-4/69876233.jpg"
+    },
+
+    {
+      "name": "Pawpaw",
+      "description": "Asimina triloba, the American papaw, pawpaw, paw paw, or paw-paw, among many regional names, is a small deciduous tree native to the eastern United States and Canada, producing a large, yellowish-green to brown fruit.",
+      "price": 80.0,
+      "imageUrl": "https://edentreegh.com/wp-content/uploads/2020/12/81EdNwypltL._AC_SL1500_.jpg"
+    },
+
+    {
+      "name": "Banana",
+      "description": "In some countries, bananas used for cooking may be called plantain, distinguishing them from dessert bananas. The fruit is variable in size, color, and firmness, but is usually elongated and curved, with soft flesh.",
+      "price": 90.0,
+      "imageUrl": "https://www.bobtailfruit.co.uk/pub/media/mageplaza/blog/post/4/2/42e9as7nataai4a6jcufwg.jpeg"
+    }
+  ]
+}

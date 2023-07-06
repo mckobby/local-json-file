@@ -1,0 +1,38 @@
+{
+  "items": [
+    {
+      "name":"Angua",
+      "age": 19,
+      "club": "Accra Aca",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqcjrZGNxEx7WW9qZVHt18ThlrW6YaGYP7sw&usqp=CAU"
+    },
+
+    {
+      "name":"Simon",
+      "age": 18,
+      "club": "Liberty",
+      "imageUrl": "https://www.allrecipes.com/thmb/y_uvjwXWAuD6T0RxaS19jFvZyFU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1205638014-2000-d0fbf9170f2d43eeb046f56eec65319c.jpg"
+    },
+
+    {
+      "name":"Sofia",
+      "age": 26,
+      "club": "Ashtown",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0082/6150/0991/files/Whole-and-cut-pink-guava-fruits.jpg"
+    },
+
+    {
+      "name":"Rich",
+      "age": 30,
+      "club": "Thinqa",
+      "imageUrl": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcQbPzz2wLi_pF2n6HXmmpyoPdG7VwCtSY--OejTKqGtMJJVLvkM8zA_QIv3t7S2Ve6S7KVuSRNQ75HWetY"
+    },
+
+    {
+      "name":"Achiaa",
+      "age": 19,
+      "club": "Ampem Dark",
+      "imageUrl": "https://cdn.britannica.com/22/187222-050-07B17FB6/apples-on-a-tree-branch.jpg"
+    }
+  ]
+}
